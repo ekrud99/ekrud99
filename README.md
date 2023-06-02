@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://img.shields.io/badge/Python-3776AB?Style=flat-squares&logo=Python&logoColor=white">  
   <img src="https://img.shields.io/badge/c-A8B9CC?Style=flat-squares&logo=c&logoColor=white">  
-  https://img.shields.io/badge/-C++-000000?logo=c®2B%2B&style=flat
+  <img src="  https://img.shields.io/badge/-C++-000000?logo=c®2B%2B&style=flat">    
   <img src="https://img.shields.io/badge/Java-007396?Style=flat-squares&logo=Java&logoColor=white">    
   <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">
 </p>
