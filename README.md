@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?Style=flat-squares&logo=Java&logoColor=white">    
   <img src="https://img.shields.io/badge/MySQL-4479A1?Style=flat-squares&logo=MySQL&logoColor=white">
 </p>
-<p align = "center">
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekrud99&show_icons=true&theme=radical)
 
